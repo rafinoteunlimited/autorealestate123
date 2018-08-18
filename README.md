@@ -1,3 +1,5 @@
+https://travis-ci.org/autorealestate/autorealestate.svg?branch=master
+
 # autorealestate
 
 Simplify Property Management workflow. Why? to help out me, my friends and my family with the rental properties and above all, to experiment with technology, software development practices and building open source community
