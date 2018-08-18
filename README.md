@@ -1,4 +1,7 @@
 # autorealestate
+
+Simplify Property Management workflow. Why? to help out me, my friends and my family with the rental properties and above all, to experiment with technology, software development practices and building open source community
+
 This application was generated using JHipster 5.2.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.2.1](https://www.jhipster.tech/documentation-archive/v5.2.1).
 
 ## Development
